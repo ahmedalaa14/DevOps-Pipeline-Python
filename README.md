@@ -1,6 +1,6 @@
 # Deploy Python App on K8s Cluster Using Jenkins Pipeline
 
-- This project is to build Jenkins EC2 on AWS and use Jenkins to run 3 Jenkins files to create a cluster then deploy our python application on it, and Finally destroy all build resources
+- This project is to build Jenkins EC2 on AWS and use Jenkins to run 3 Jenkins files to create a cluster then deploy our python application on it, and Finally destroy all build resources.
 
 ## Used tools:
 -	 Terraform
